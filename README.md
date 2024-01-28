@@ -2,8 +2,9 @@
 
 This Java program evaluates the strength of a password based on specific criteria such as the presence of lowercase and uppercase letters, digits, and special characters. The strength is categorized as "Weak," "Moderate," or "Strong."
 
+# Example Output
+![image](https://github.com/linzele/Simple-Password-Strength-Tester/assets/154880136/f44de4d9-5fe4-45d3-947f-3d877286a9d7)
 
-![image](https://github.com/linzele/Simple-Password-Strength-Tester/assets/154880136/20722fa6-164a-44d0-9cd0-a9df354f0ddc)
 
 The program will display the strength classification of the entered password.
 
